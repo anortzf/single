@@ -29,23 +29,7 @@
         "name_episodio": "episodio 1",
         "link": "/Drive the movie"
       },
-      
-     {
-        "img1": "http://pic0.iqiyipic.com/image/20210816/05/1d/v_161484497_m_601_zh-TW_m2_220_124.jpg",
-        "alt": "la dama del agua",
-        "data_link": "/link del iframe",
-        "name_episodio": "episodio 1",
-        "link": "/Drive the movie"
-      },
-      
-     {
-        "img1": "http://pic0.iqiyipic.com/image/20210816/05/1d/v_161484497_m_601_zh-TW_m2_220_124.jpg",
-        "alt": "la dama del agua",
-        "data_link": "/link del iframe",
-        "name_episodio": "episodio 1",
-        "link": "/Drive the movie"
-      },
-      
+
      {
         "img1": "http://pic0.iqiyipic.com/image/20210816/05/1d/v_161484497_m_601_zh-TW_m2_220_124.jpg",
         "alt": "la dama del agua",
