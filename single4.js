@@ -2,7 +2,7 @@
   {
     
     "episodios": "Episodios 1-40",
-    "cant":1-40,
+    "cant":"1-40",
     "src": "https://databasegdriveplayer.co/player.php?tmdb=802107",
     "name": "la dama del agua",
     "cards": [
